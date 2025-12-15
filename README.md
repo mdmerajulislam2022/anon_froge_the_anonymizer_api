@@ -1,4 +1,4 @@
-# Eric SDU Anonymizer API with Runtime Memory
+#Anonymizer API with Runtime Memory
 
 This API has been updated to use runtime memory instead of PostgreSQL database for employee data storage.
 
